@@ -1,0 +1,66 @@
+{
+  "namespace": "com.udacity",
+  "type": "record",
+  "name": "arrival.value",
+  "fields": [
+    {
+      "name": "station_id",
+      "type": "long"
+    },
+    {
+      "name": "train_id",
+      "type": "string"
+    },
+    {
+      "name": "line",
+      "type": {
+        "name": "LineType",
+        "type": "enum",
+        "symbols": [
+          "blue",
+          "red",
+          "brown",
+          "green",
+          "orange",
+          "pink",
+          "purple",
+          "yellow"
+        ]
+      }
+    },
+    {
+      "name": "train_status",
+      "type": {
+        "name": "TrainStatus",
+        "type": "enum",
+        "symbols": [
+          "out_of_service",
+          "in_service",
+          "broken_down"
+        ]
+      }
+    },
+    {
+      "name": "prev_station_id",
+      "type": [
+        "null",
+        "long"
+      ]
+    },
+    {
+      "name": "direction",
+      "type": {
+        "name": "DirectionType",
+        "type": "enum",
+        "symbols": [
+          "a",
+          "b"
+        ]
+      }
+    },
+    {
+      "name": "prev_direction",
+      "type": ["null", "DirectionType"]
+    }
+  ]
+}

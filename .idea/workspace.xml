@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59fc0bc7-822e-4302-9b34-e7e35a6006d6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kafka" />
+  </component>
+  <component name="ProjectId" id="1UmsdLC85dqNbocK2LTnDSZYv0J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ksql">
+    <configuration name="KafkaProject" type="PythonConfigurationType" factoryName="Python">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/datascience1/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/kafka/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="connector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/producers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/producers/connector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="faust_stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/consumers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumers/faust_stream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ksql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/consumers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumers/ksql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kafka" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/producers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/producers/simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.KafkaProject" />
+      <item itemvalue="Python.simulation" />
+      <item itemvalue="Python.connector" />
+      <item itemvalue="Python.ksql" />
+      <item itemvalue="Python.faust_stream" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ksql" />
+        <item itemvalue="Python.connector" />
+        <item itemvalue="Python.faust_stream" />
+        <item itemvalue="Python.simulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59fc0bc7-822e-4302-9b34-e7e35a6006d6" name="Default" comment="" />
+      <created>1575909820335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575909820335</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576048025622">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="304" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.967@0.23.1680.967" timestamp="1575983109578" />
+    <state x="347" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.990@0.23.1920.990" timestamp="1576048025622" />
+    <state width="1659" height="257" key="GridCell.Tab.0.bottom" timestamp="1578424327432">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1659" height="257" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1578411942943" />
+    <state width="1659" height="257" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1578424327432" />
+    <state width="1659" height="259" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1575983047174" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1576155570499" />
+    <state width="1899" height="266" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1576242234345" />
+    <state width="1659" height="257" key="GridCell.Tab.0.center" timestamp="1578424327431">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1659" height="257" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1578411942942" />
+    <state width="1659" height="257" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1578424327431" />
+    <state width="1659" height="259" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1575983047173" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1576155570499" />
+    <state width="1899" height="266" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1576242234344" />
+    <state width="1659" height="257" key="GridCell.Tab.0.left" timestamp="1578424327430">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1659" height="257" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1578411942942" />
+    <state width="1659" height="257" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1578424327430" />
+    <state width="1659" height="259" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1575983047164" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1576155570498" />
+    <state width="1899" height="266" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1576242234344" />
+    <state width="1659" height="257" key="GridCell.Tab.0.right" timestamp="1578424327431">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1659" height="257" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1578411942943" />
+    <state width="1659" height="257" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1578424327431" />
+    <state width="1659" height="259" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1575983047173" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1576155570499" />
+    <state width="1899" height="266" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1576242234345" />
+    <state x="399" y="147" key="SettingsEditor" timestamp="1576049763377">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="349" y="144" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1575982710595" />
+    <state x="349" y="144" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1575983062725" />
+    <state x="399" y="147" key="SettingsEditor/0.23.1920.990@0.23.1920.990" timestamp="1576049763377" />
+    <state x="519" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1578407896487">
+      <screen x="0" y="23" width="1680" height="964" />
+    </state>
+    <state x="519" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.964@0.23.1680.964" timestamp="1578407896487" />
+    <state x="519" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1576581488664" />
+    <state x="506" y="267" width="667" height="478" key="find.popup" timestamp="1578424838494">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="506" y="267" width="667" height="476" key="find.popup/0.23.1680.964@0.23.1680.964" timestamp="1578411001768" />
+    <state x="506" y="267" width="667" height="478" key="find.popup/0.23.1680.965@0.23.1680.965" timestamp="1578424838494" />
+    <state x="506" y="268" width="667" height="478" key="find.popup/0.23.1680.967@0.23.1680.967" timestamp="1578412218074" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1576051091525">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1920.990@0.23.1920.990" timestamp="1576051091525" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/producers/simulation.py</url>
+          <line>3</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/consumers/consumer.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/consumers/models/lines.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/producers/models/line.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
